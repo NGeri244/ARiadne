@@ -16,3 +16,5 @@ Thumbs.db
 *.sln
 *.csproj
 *.unityproj
+# Android Gradle/CMake intermediates
+.utmp/
